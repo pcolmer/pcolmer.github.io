@@ -1,3 +1,8 @@
+figcaption {
+  font-variant-caps: small-caps;
+  font-size: smaller;
+}
+
 body.lb-disable-scrolling {
   overflow: hidden;
 }
