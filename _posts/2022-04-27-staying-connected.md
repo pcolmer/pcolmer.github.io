@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Techie Talk: Staying Connected
+title: "Techie Talk: Staying Connected"
 tags: ["Techie Talk"]
 css: ["/assets/css/lightbox.css"]
 ---
