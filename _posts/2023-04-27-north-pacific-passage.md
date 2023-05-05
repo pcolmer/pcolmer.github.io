@@ -14,3 +14,7 @@ One of the reasons we picked this particular itinerary is because my wife & I ha
 This page will act as a master index page of blog posts for the cruise.
 
 * [Day 0 - A new Viking cruise holiday](/2023/04/28/day0.html)
+* [Day 1 - Yokohama](/2023/04/29/day1.html)
+* [Day 2 - Yokohama](/2023/04/30/day2.html)
+* [Day 3 - At Sea](/2023/05/01/day3.html)
+* [Day 4 - Sapporo (Otaru), Japan](/2023/05/02/day4.html)
