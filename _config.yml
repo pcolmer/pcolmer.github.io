@@ -20,6 +20,8 @@ author: Philip Colmer
 ###############################################
 
 navbar-links:
+  Latest:
+    - North Pacific Passage: "/2023/04/27/north-pacific-passage.html"
   Tags: "tags"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
