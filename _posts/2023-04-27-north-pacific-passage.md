@@ -18,3 +18,6 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 2 - Yokohama](/2023/04/30/day2.html)
 * [Day 3 - At Sea](/2023/05/01/day3.html)
 * [Day 4 - Sapporo (Otaru), Japan](/2023/05/02/day4.html)
+* [Day 5 - Sapporo (Otaru), Japan](/2023/05/02/day5.html)
+* [Day 6 - Day at Sea](/2023/05/02/day6.html)
+* [Day 7 - Day at Sea](/2023/05/02/day7.html)
