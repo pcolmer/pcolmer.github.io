@@ -22,6 +22,7 @@ author: Philip Colmer
 navbar-links:
   North Pacific Passage: "/2023/04/27/north-pacific-passage.html"
   Tags: "tags"
+  RSS Feed: "/feed.xml"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
