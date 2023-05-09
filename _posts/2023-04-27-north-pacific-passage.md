@@ -24,3 +24,4 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 8 - Saturday - At Sea](/2023/05/06/day8.html)
 * [Day 9 - Sunday - At Sea](/2023/05/07/day9.html)
 * [Day 10 - Monday #1 - At Sea](/2023/05/08/day10.html)
+* [Day 11 - Monday #2 - At Sea](/2023/05/09/day11.html)
