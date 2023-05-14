@@ -27,3 +27,5 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 11 - Monday #2 - At Sea](/2023/05/09/day11.html)
 * [Day 12 - Tuesday - At Sea](/2023/05/10/day12.html)
 * [Day 13 - Wednesday - Dutch Harbor, Alaska, United State](/2023/05/11/day13.html)
+* [Day 14 - Thursday - At Sea](/2023/05/12/day14.html)
+* [Day 15 - Friday - Kodiak, Alaska, United States](/2023/05/13/day15.html)
