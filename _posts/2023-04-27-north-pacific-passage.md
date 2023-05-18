@@ -32,3 +32,5 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 16 - Saturday - Seward, Alaska, United States](/2023/05/13/day16.html)
 * [Day 17 - Sunday - At Sea](/2023/05/14/day17.html)
 * [Day 18 - Monday - Scenic Sailing: Hubbard Glacier](/2023/05/15/day18.html)
+* [Day 19 - Tuesday - Scenic Sailing: Glacier Bay](/2023/05/16/day19.html)
+* [Day 20 - Wednesday - Sitka, Alaska, United States](/2023/05/17/day20.html)
