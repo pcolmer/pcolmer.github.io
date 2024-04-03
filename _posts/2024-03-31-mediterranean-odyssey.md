@@ -14,7 +14,7 @@ This cruise repeats a couple of the stops from our second Viking cruise, Italian
 This page will act as a master index page of blog posts for the cruise.
 
 * [Day 1 - Monday - Barcelona, Spain](/2024/04/01/day1.html)
-* Day 2 - Tuesday - Barcelona, Spain
+* [Day 2 - Tuesday - Barcelona, Spain](/2024/04/02/day2.html)
 * Day 3 - Wednesday - Marseille, France
 * Day 4 - Thursday - Monte Carlo, Monaco
 * Day 5 - Friday - Florence/Pisa, Italy
