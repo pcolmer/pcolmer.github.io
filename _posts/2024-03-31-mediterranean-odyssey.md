@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Viking cruise - Mediterranean Odyssey
-cover-img: https://res.cloudinary.com/dxbtkgnyh/image/upload/t_Banner 16:9/v1712048810/2024-viking-mediterranean-odyssey/PXL_20240402_085447815_spyaan.jpg
+cover-img: https://res.cloudinary.com/dxbtkgnyh/image/upload/t_Banner%2016:9/v1712048810/2024-viking-mediterranean-odyssey/PXL_20240402_085447815_spyaan.jpg
 thumbnail-img: https://res.cloudinary.com/dxbtkgnyh/image/upload/t_Thumbnail/v1712048810/2024-viking-mediterranean-odyssey/PXL_20240402_085447815_spyaan.jpg
 tags: [Holidays]
 ---
