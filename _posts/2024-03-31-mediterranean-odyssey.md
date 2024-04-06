@@ -16,7 +16,7 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 1 - Monday - Barcelona, Spain](/2024/04/01/day1.html)
 * [Day 2 - Tuesday - Barcelona, Spain](/2024/04/02/day2.html)
 * [Day 3 - Wednesday - Marseille, France](/2024/04/03/day3.html)
-* Day 4 - Thursday - Monte Carlo, Monaco
+* [Day 4 - Thursday - Monte Carlo, Monaco](/2024/04/04/day4.html)
 * Day 5 - Friday - Florence/Pisa, Italy
 * Day 6 - Saturday - Rome (Civitavecchia), Italy
 * Day 7 - Sunday - Naples, Italy
