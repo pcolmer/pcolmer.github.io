@@ -18,8 +18,8 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 3 - Wednesday - Marseille, France](/2024/04/03/day3.html)
 * [Day 4 - Thursday - Monte Carlo, Monaco](/2024/04/04/day4.html)
 * [Day 5 - Friday - Florence/Pisa, Italy](/2024/04/05/day5.html)
-* Day 6 - Saturday - Rome (Civitavecchia), Italy
-* Day 7 - Sunday - Naples, Italy
+* [Day 6 - Saturday - Rome (Civitavecchia), Italy](/2024/04/06/day6.html)
+* [Day 7 - Sunday - Naples, Italy](/2024/04/07/day7.html)
 * Day 8 - Monday - At Sea
 * Day 9 - Tuesday - Corfu (Kerkyra), Greece
 * Day 10 - Wednesday - Dubrovnik, Croatia
