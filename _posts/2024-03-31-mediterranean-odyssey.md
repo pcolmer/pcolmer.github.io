@@ -20,8 +20,8 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 5 - Friday - Florence/Pisa, Italy](/2024/04/05/day5.html)
 * [Day 6 - Saturday - Rome (Civitavecchia), Italy](/2024/04/06/day6.html)
 * [Day 7 - Sunday - Naples, Italy](/2024/04/07/day7.html)
-* Day 8 - Monday - At Sea
-* Day 9 - Tuesday - Corfu (Kerkyra), Greece
+* [Day 8 - Monday - At Sea](/2024/04/08/day8.html)
+* [Day 9 - Tuesday - Corfu (Kerkyra), Greece](/2024/04/09/day9.html)
 * Day 10 - Wednesday - Dubrovnik, Croatia
 * Day 11 - Thursday - Split, Croatia
 * Day 12 - Friday - Venice (Choiggia), Italy
