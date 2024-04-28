@@ -23,7 +23,7 @@ This page will act as a master index page of blog posts for the cruise.
 * [Day 8 - Monday - At Sea](/2024/04/08/day8.html)
 * [Day 9 - Tuesday - Corfu (Kerkyra), Greece](/2024/04/09/day9.html)
 * [Day 10 - Wednesday - Dubrovnik, Croatia](/2024/04/10/day10.html)
-* Day 11 - Thursday - Split, Croatia
+* [Day 11 - Thursday - Split, Croatia](/2024/04/11/day11.html)
 * Day 12 - Friday - Venice (Choiggia), Italy
 * Day 13 - Saturday - Lake Como & Verona
 * Day 14 - Sunday - Lake Como & Verona
